@@ -124,7 +124,7 @@ Many workers have limited outside options for career and wage progression outsid
 
 ## Personas
 
-TBD
+There are four persona types, job coach, job training program administrator, labor market analyst, and policy maker. See the Miro whiteboard https://miro.com/app/board/o9J_kt7LFyI=/ for more details.
 
 ## Technologies Used
 
